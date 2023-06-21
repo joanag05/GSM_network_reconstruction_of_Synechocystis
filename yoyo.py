@@ -20,6 +20,7 @@ from cobra.io import read_sbml_model, write_sbml_model
 
 model_cyano = read_sbml_model('model_lipids_cyano.xml')
 
+
 id_lipid = ["mgdg140183", "mgdg160184", "mgdg160183", "mgdg160182", "mgdg160181", "mgdg182183", "mgdg181183", "mgdg160200", "mgdg190210",
             ]
 
@@ -30,6 +31,8 @@ for lipid in id_lipid:
     if lipid + "__cytop" in id_metabolites:
         reactions = get_reactions(lipid, set(), set())
         for reaction in reactions:
+            for met in reaction.metabolites:
+                met.compartment = "cytop"
             results.add(reaction)
 
 new_model = Model()
