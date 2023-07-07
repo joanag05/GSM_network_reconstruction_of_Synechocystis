@@ -1,24 +1,27 @@
-mgdg190210
-sqdg160181
-sqdg160182
-sqdg160184
-sqdg140183
-mgdg160184
-sqdg160172
-sqdg160203
-sqdg160200
-BMGC14561
-mgdg140183
-sqdg160170
-sqdg170183
-BMGC14238
-sqdg170182
-BMGC682419
-mgdg160200
-sqdg160204
-BMGC5629
-sqdg141160
-sqdg160190
-sqdg160171
-BMGC14239
-sqdg160183
+mgdg190210 - 1-nonadecanoyl-2-heneicosanoyl-3-O-beta-D-galactosyl-sn-glycerol -------------------------------------- 1-nonadecanoyl-2-heneicosanoyl-sn-glycerol 
+sqdg160181 - 1-hexadecanoyl-2-(9Z-octadecenoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ------------------------- 1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycerol
+sqdg160182 - 1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ----------------------- 1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycerol
+sqdg160184 - 1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-octadecatetraenoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol----------------- 1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-octadecatetraenoyl)-sn-glycerol
+sqdg140183 - 1-tetradecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol -----------------------1-tetradecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycerol
+mgdg160184 - 1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-octadecatetraenoyl)-3-O-beta-D-galactosyl-sn-glycerol ---------------------- 1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-octadecatetraenoyl)-sn-glycerol
+sqdg160172  - 1-hexadecanoyl-2-(9Z,12Z-heptadecadienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ---------------------- 1-hexadecanoyl-2-(9Z,12Z-heptadecadienoyl)-sn-glycerol
+sqdg160203 - 1-hexadecanoyl-2,3-di-(8Z,11Z,14Z-eicosatrienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ----------------- 1-hexadecanoyl-2,3-di-(8Z,11Z,14Z-eicosatrienoyl)-sn-glycerol	
+sqdg160200 - 1-hexadecanoyl-2-eicosanoyl-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ------                  1-hexadecanoyl-2-eicosanoyl-sn-glycerol
+BMGC14561   (18:0/18:3) - 1-octadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-(1'-sn-glycerol)  --------------- 1-octadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-(1'-sn-glycerol-3'-phosphate)
+mgdg140183  - 1-tetradecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-3-O-beta-D-galactosyl-sn-glycerol ------------------------ 1-tetradecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycerol
+sqdg160170  - 1-hexadecanoyl-2-heptadecanoyl-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ---------------------------- 1-hexadecanoyl-2-heptadecanoyl-sn-glycerol
+sqdg170183  - 1-heptadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol --------------- 1-heptadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycerol
+BMGC14238 (16:0/22:5) - 1-hexadecanoyl-2-(7Z,10Z,13Z,16Z,19Z-docosapentaenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol) ----------------- 1-hexadecanoyl-2-(7Z,10Z,13Z,16Z,19Z-docosapentaenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol-3'-phosphate)
+sqdg170182 - 1-heptadecanoyl-2-(9Z,12Z-octadecadienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol --------------- 1-heptadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycerol
+BMGC682419 - 1-hexadecanoyl-2-(9Z,12Z-heptadecadienoyl)-sn-glycero-3-phospho-(1'-sn-glycerol) -------------- 1-hexadecanoyl-2-(9Z,12Z-heptadecadienoyl)-sn-glycero-3-phospho-(1'-sn-glycerol-3'-phosphate)
+mgdg160200 - 1-hexadecanoyl-2-eicosanoyl-3-O-beta-D-galactosyl-sn-glycerol ------------------------- 1-hexadecanoyl-2-eicosanoyl-sn-glycerol
+sqdg160204  -1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol -------------------------- 1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycerol
+BMGC5629 (18:1-18:1-18:1)   -1,2,3-trioctadecenoyl-sn-glycero-3-phospho-(1'-sn-glycerol)                                               ---------------------- 1,2-dioctadecanoyl-sn-glycerol + Oleoyl-CoA
+sqdg141160 - 1-(9Z-tetradecenoyl)-2-tetradecanoyl-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol---------------------- 1-(9Z-tetradecenoyl)-2-tetradecanoyl-sn-glycerol
+sqdg160190 - 1-hexadecanoyl-2-nonadecanoyl-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ------------------- 1-hexadecanoyl-2-nonadecanoyl-sn-glycerol
+sqdg160171 - 1-hexadecanoyl-2-(9Z-heptadecenoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ---------- 1-hexadecanoyl-2-(9Z-heptadecenoyl)-sn-glycerol
+BMGC14239 (16:0/22:4) - 1-hexadecanoyl-2-(7Z,10Z,13Z,16Z-docosatetraenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol) --------------- 1-hexadecanoyl-2-(7Z,10Z,13Z,16Z-docosatetraenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol-3'-phosphate)
+sqdg160183 - 1-hexadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol --------------- 1-hexadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl-sn-glycerol
+
+
+
