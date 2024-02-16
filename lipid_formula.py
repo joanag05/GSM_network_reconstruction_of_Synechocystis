@@ -142,6 +142,6 @@ def mgdg_formula(lipid):
 
 
 if __name__ == '__main__':
-    #get_lipid_formula('sqdg', 'sqdg160204')
-    get_lipid_formula('mgdg', 'mgdg160184')
+    get_lipid_formula('sqdg', 'sqdg160183')
+    #get_lipid_formula('mgdg', 'mgdg160183')
 

@@ -23,5 +23,65 @@ sqdg160171 - 1-hexadecanoyl-2-(9Z-heptadecenoyl)-(6'-sulfo-alpha-D-quinovosyl)-s
 BMGC14239 (16:0/22:4) - 1-hexadecanoyl-2-(7Z,10Z,13Z,16Z-docosatetraenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol) --------------- 1-hexadecanoyl-2-(7Z,10Z,13Z,16Z-docosatetraenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol-3'-phosphate)
 sqdg160183 - 1-hexadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol --------------- 1-hexadecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl-sn-glycerol
 
+------
+
+mgdg160161 - 1-hexadecanoy-2-(9Z-hexadecenoyl)-3-O-beta-D-galactosyl-sn-glycerol (C41H76O10) ------------- 1-hexadecanoyl-2-(9Z-hexadecenoyl)-sn-glycerol
+mgdg183183 - 1,2 di-(9Z,12Z,15Z-octadecatrienoyl)-3-O-beta-D-galactosyl-sn-glycerol (C45H74O10) ---------- 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycerol
+mgdg182182 - 1,2-di-(9Z,12Z-octadecadienoyl)-3-O-beta-D-galactosyl-sn-glycerol - (C45H78O10) ----------- 1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycerol
+mgdg181182 - 1-(9Z-octadecenoyl)-2-(9Z,12Z-octadecadienoyl)-3-beta-D-galactosyl-sn-glycerol (C45H80O10) -------------- 1-(9Z-octadecenoyl)-2-(9Z,12Z-octadecadienoyl)-sn-glycerol
+
+-------------
+
+sqdg140182 - 1-tetradecanoyl-2-(9Z,12Z-octadecadienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol --------- 1-tetradecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycerol (C41H73O12S)
+sqdg160172 - 1-hexadecanoyl-2-(9Z,12Z-heptadecadienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol -------- 1-hexadecanoyl-2-(9Z,12Z-heptadecadienoyl)-sn-glycerol 
+sqdg182183 - 1-(9Z,12Z-octadecadienoyl)-2-(9Z,12Z,15Z-octadecatrienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ----- 1-(9Z,12Z-octadecadienoyl)-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycerol (C45H75O12S)
+sqdg182182 - 1,2-di-(9Z,12Z-octadecadienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ------- 1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycerol (C45H77O12S)
+sqdg183183 - 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol ------ 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycerol
+sqdg160184 - 1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-octadecatetraenoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol  --------- 1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-octadecatetraenoyl)-sn-glycerol 
+----
+PI160182 - 1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-1D-myo-inositol (C43H78O13P) -------- 
+CDP-1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycerol
+--------
+
+pg 16:0/16:1  - 1-hexadecanoyl-2-(9Z-hexadecenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol) (C38H73O10P) ------------- 
 
 
+
+1-tetradecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-(6'-sulfo-alpha-D-quinovosyl)-sn-glycerol 1-tetradecanoyl-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycerol
+
+CDP-1-(9Z,12Z,15Z-octadecatrienoyl)-2-(9Z-octadecenoyl)-sn-glycerol ------------ 1-(9Z,12Z,15Z-octadecatrienoyl)-2-(9Z-octadecenoyl)-sn-glycero-3-phospho-1D-myo-inositol
+
+\
+
+
+
+myo-Inositol + CDP-1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycerol ------- CMP + 1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-(1D-myo-inositol)
+
+
+
+myo-Inositol + CDP-1-(9Z,12Z,15Z-octadecatrienoyl)-2-(9Z-octadecenoyl)-sn-glycerol----- CMP + 1-(9Z,12Z,15Z-octadecatrienoyl)-2-(9Z-octadecenoyl)-sn-glycero-3-phospho-1D-myo-inositol  + H+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1-hexadecanoyl-2-(7Z,10Z,13Z,16Z,19Z-docosapentaenoyl)-sn-glycero-3-phosphate CDP-1-hexadecanoyl-2-(7Z,10Z,13Z,16Z,19Z-docosapentaenoyl)-sn-glycerol
